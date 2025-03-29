@@ -57,6 +57,14 @@ Me chamo Pedro Caneda, sou natural do Rio de Janeiro e doutor em Física pelo Ce
 />
 <img 
     align="left" 
+    alt="Plotly" 
+    title="Plotly"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
+/>
+<img 
+    align="left" 
     alt="AWS" 
     title="AWS"
     width="30px" 
