@@ -25,11 +25,43 @@ Me chamo Pedro Caneda, sou natural do Rio de Janeiro e doutor em Física pelo Ce
 />
 <img 
     align="left" 
+    alt="Pandas"
+    title="Pandas" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
+<img 
+    align="left" 
+    alt="NumPy"
+    title="NumPy" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SciPy"
+    title="SciPy" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://scipy.org/images/logo.svg"
+/>
+<img 
+    align="left" 
     alt="Scikit-learn" 
     title="Scikit-learn"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Statsmodels" 
+    title="Statsmodels"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg"
 />
 <img 
     align="left" 
@@ -57,8 +89,8 @@ Me chamo Pedro Caneda, sou natural do Rio de Janeiro e doutor em Física pelo Ce
 />
 <img 
     align="left" 
-    alt="Plotly" 
-    title="Plotly"
+    alt="Streamlit" 
+    title="Streamlit"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
